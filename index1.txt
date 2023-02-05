@@ -1,1 +1,5 @@
 Testing this file on git
+\
+now we are going to staged
+
+Our 1st merge of git branch
