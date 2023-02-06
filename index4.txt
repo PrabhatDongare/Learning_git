@@ -1,1 +1,1 @@
-This is the index 4 file, will be used for checkout method test
+This is the index 4 file, will be used for checkout method
